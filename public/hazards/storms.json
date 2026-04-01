@@ -1,0 +1,97 @@
+[
+  {
+    "storm_id": "AL112017",
+    "name": "IRMA",
+    "basin": "NA",
+    "season": 2017,
+    "type": "hurricane",
+    "bbox": {
+      "min_lat": 12.0,
+      "max_lat": 25.0,
+      "min_lon": -75.0,
+      "max_lon": -50.0
+    },
+    "points": [
+      {
+        "time": "2017-09-04T00:00:00Z",
+        "lat": 16.7,
+        "lon": -57.7,
+        "wind_kt": 120,
+        "pressure_mb": 950,
+        "category": 3
+      },
+      {
+        "time": "2017-09-05T00:00:00Z",
+        "lat": 16.9,
+        "lon": -60.3,
+        "wind_kt": 160,
+        "pressure_mb": 914,
+        "category": 5
+      },
+      {
+        "time": "2017-09-06T00:00:00Z",
+        "lat": 17.5,
+        "lon": -63.0,
+        "wind_kt": 155,
+        "pressure_mb": 920,
+        "category": 5
+      },
+      {
+        "time": "2017-09-07T00:00:00Z",
+        "lat": 20.1,
+        "lon": -68.2,
+        "wind_kt": 140,
+        "pressure_mb": 930,
+        "category": 4
+      }
+    ]
+  },
+
+  {
+    "storm_id": "AL052019",
+    "name": "DORIAN",
+    "basin": "NA",
+    "season": 2019,
+    "type": "hurricane",
+    "bbox": {
+      "min_lat": 10.0,
+      "max_lat": 35.0,
+      "min_lon": -85.0,
+      "max_lon": -50.0
+    },
+    "points": [
+      {
+        "time": "2019-08-28T00:00:00Z",
+        "lat": 12.5,
+        "lon": -59.4,
+        "wind_kt": 75,
+        "pressure_mb": 1001,
+        "category": 1
+      },
+      {
+        "time": "2019-08-30T00:00:00Z",
+        "lat": 18.0,
+        "lon": -68.0,
+        "wind_kt": 110,
+        "pressure_mb": 970,
+        "category": 2
+      },
+      {
+        "time": "2019-09-01T00:00:00Z",
+        "lat": 26.5,
+        "lon": -76.8,
+        "wind_kt": 160,
+        "pressure_mb": 910,
+        "category": 5
+      },
+      {
+        "time": "2019-09-02T00:00:00Z",
+        "lat": 26.7,
+        "lon": -77.0,
+        "wind_kt": 155,
+        "pressure_mb": 915,
+        "category": 5
+      }
+    ]
+  }
+]
