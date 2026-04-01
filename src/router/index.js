@@ -2,8 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import HazardLayer from '../views/HazardLayer.vue'
 
 const routes = [
-  { path: '/', name: 'Home', component: () => import('../views/Home.vue') },
-  { path: '/hazards', name: 'hazards', component: HazardLayer},
+  { path: '/', name: 'hazards', component: HazardLayer},
 ]
 
 const router = createRouter({
