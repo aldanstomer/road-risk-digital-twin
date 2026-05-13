@@ -1,0 +1,7509 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-06T15:41:13Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/336578974",
+        "name": "Lead Vale",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5128412,
+          13.0862388
+        ]
+      },
+      "id": "node/336578974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/416656760",
+        "name": "Barbados",
+        "place": "hamlet",
+        "source": "IBGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5786068,
+          -19.5180038
+        ]
+      },
+      "id": "node/416656760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434281457",
+        "name": "Mullins",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6382417,
+          13.2340306
+        ]
+      },
+      "id": "node/434281457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436363888",
+        "name": "Gibbes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6383114,
+          13.2298384
+        ]
+      },
+      "id": "node/436363888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436365049",
+        "name": "Westmoreland",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6262866,
+          13.2141197
+        ]
+      },
+      "id": "node/436365049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436365586",
+        "name": "Weston",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6388006,
+          13.2152914
+        ]
+      },
+      "id": "node/436365586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436400674",
+        "name": "Holetown",
+        "place": "town",
+        "population": "1087",
+        "source": "http://www.barstats.gov.bb/census/redatam-1/",
+        "wikidata": "Q2290478",
+        "wikipedia": "en:Holetown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.637289,
+          13.1856145
+        ]
+      },
+      "id": "node/436400674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436400701",
+        "name": "Porters",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6381053,
+          13.2015246
+        ]
+      },
+      "id": "node/436400701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/438053406",
+        "name": "Welchman Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5771509,
+          13.1863465
+        ]
+      },
+      "id": "node/438053406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/438098630",
+        "name": "Speightstown",
+        "place": "town",
+        "population": "2604",
+        "source": "http://www.barstats.gov.bb/census/redatam-1/",
+        "wikidata": "Q2544610",
+        "wikipedia": "en:Speightstown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6423782,
+          13.2500531
+        ]
+      },
+      "id": "node/438098630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/438099718",
+        "name": "Mile and a Quarter",
+        "place": "village",
+        "wikidata": "Q25068533",
+        "wikipedia": "en:Mile and a Quarter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6210298,
+          13.2676304
+        ]
+      },
+      "id": "node/438099718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/438099722",
+        "name": "Boscobelle",
+        "place": "village",
+        "wikidata": "Q25068536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5786997,
+          13.2865947
+        ]
+      },
+      "id": "node/438099722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/438099726",
+        "country": "BB",
+        "name": "Belleplaine",
+        "place": "village",
+        "wikidata": "Q3560209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5627175,
+          13.2459239
+        ]
+      },
+      "id": "node/438099726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439088178",
+        "name": "Gemswick",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4714902,
+          13.0862324
+        ]
+      },
+      "id": "node/439088178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439149503",
+        "country": "BB",
+        "name": "Coach Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4795939,
+          13.1777507
+        ]
+      },
+      "id": "node/439149503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439149523",
+        "name": "Bathsheba",
+        "place": "village",
+        "population": "1521",
+        "population:date": "2012",
+        "source:population": "wikipedia",
+        "wikidata": "Q2114059"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5227245,
+          13.2129361
+        ]
+      },
+      "id": "node/439149523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439154867",
+        "name": "Orange Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.606538,
+          13.2062086
+        ]
+      },
+      "id": "node/439154867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176628",
+        "name": "Jackson",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6010377,
+          13.1438989
+        ]
+      },
+      "id": "node/439176628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176629",
+        "name": "Redmans",
+        "place": "village",
+        "postal_code": "BB22025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6136143,
+          13.1590187
+        ]
+      },
+      "id": "node/439176629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176630",
+        "name": "Thorpes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6250045,
+          13.1556255
+        ]
+      },
+      "id": "node/439176630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176631",
+        "name": "Foster Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5712664,
+          13.1319445
+        ]
+      },
+      "id": "node/439176631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176633",
+        "name": "The Valley",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5664138,
+          13.131075
+        ]
+      },
+      "id": "node/439176633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176636",
+        "name": "Ellerton",
+        "place": "village",
+        "wikidata": "Q25185030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5394802,
+          13.1340832
+        ]
+      },
+      "id": "node/439176636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439176640",
+        "name": "Brereton",
+        "place": "village",
+        "wikidata": "Q4961826"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5042551,
+          13.1200098
+        ]
+      },
+      "id": "node/439176640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439984983",
+        "country": "BB",
+        "name": "Mangrove",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.471027,
+          13.1029593
+        ]
+      },
+      "id": "node/439984983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439984984",
+        "country": "BB",
+        "name": "St Martins",
+        "place": "village",
+        "wikidata": "Q7401794"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4648278,
+          13.095518
+        ]
+      },
+      "id": "node/439984984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675780",
+        "name": "Halton",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4996523,
+          13.1351779
+        ]
+      },
+      "id": "node/440675780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675781",
+        "name": "Cottage Vale",
+        "place": "village",
+        "postal_code": "BB20025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4942176,
+          13.1396386
+        ]
+      },
+      "id": "node/440675781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675782",
+        "name": "Kendal",
+        "place": "suburb",
+        "postal_code": "BB20024",
+        "wikidata": "Q24901160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.499309,
+          13.1461691
+        ]
+      },
+      "id": "node/440675782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675783",
+        "name": "Hill View",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5029201,
+          13.1413677
+        ]
+      },
+      "id": "node/440675783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675784",
+        "name": "Ebenezer",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4969486,
+          13.1235593
+        ]
+      },
+      "id": "node/440675784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440675786",
+        "country": "BB",
+        "name": "Padmore",
+        "place": "hamlet",
+        "postal_code": "BB18023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4785785,
+          13.1335694
+        ]
+      },
+      "id": "node/440675786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734686",
+        "country": "BB",
+        "name": "Watts Village",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5469879,
+          13.1104355
+        ]
+      },
+      "id": "node/440734686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734687",
+        "name": "Stepney",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5533823,
+          13.1111878
+        ]
+      },
+      "id": "node/440734687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734688",
+        "name": "South District",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5611929,
+          13.1083457
+        ]
+      },
+      "id": "node/440734688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734689",
+        "name": "Dash Valley",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5653128,
+          13.1099757
+        ]
+      },
+      "id": "node/440734689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734690",
+        "name": "Constant",
+        "place": "hamlet",
+        "wikidata": "Q25068530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.561311,
+          13.123794
+        ]
+      },
+      "id": "node/440734690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734691",
+        "name": "Carmichael",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5417522,
+          13.1191709
+        ]
+      },
+      "id": "node/440734691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734692",
+        "name": "Turnpike",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5418373,
+          13.1227039
+        ]
+      },
+      "id": "node/440734692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734693",
+        "name": "Buttals",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5365263,
+          13.1235652
+        ]
+      },
+      "id": "node/440734693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734695",
+        "name": "Melverton",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5215391,
+          13.1318763
+        ]
+      },
+      "id": "node/440734695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/440734696",
+        "name": "Drax Hall Woods",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5152306,
+          13.1338824
+        ]
+      },
+      "id": "node/440734696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198259",
+        "name": "Mount Stepney",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5827766,
+          13.2791601
+        ]
+      },
+      "id": "node/441198259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198266",
+        "name": "Pie Corner",
+        "place": "village",
+        "wikidata": "Q25068540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5844074,
+          13.3069969
+        ]
+      },
+      "id": "node/441198266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198273",
+        "name": "Rockfield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.589171,
+          13.3116116
+        ]
+      },
+      "id": "node/441198273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198276",
+        "name": "Well Road",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5898577,
+          13.3078948
+        ]
+      },
+      "id": "node/441198276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198280",
+        "name": "Upper Salmonds",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5944322,
+          13.3156665
+        ]
+      },
+      "id": "node/441198280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198282",
+        "name": "Bishops",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6021529,
+          13.3204651
+        ]
+      },
+      "id": "node/441198282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198286",
+        "name": "Seaview",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6036764,
+          13.3235971
+        ]
+      },
+      "id": "node/441198286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198289",
+        "name": "Flatfield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.608161,
+          13.3277105
+        ]
+      },
+      "id": "node/441198289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198297",
+        "name": "Hope",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6041055,
+          13.3208618
+        ]
+      },
+      "id": "node/441198297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198304",
+        "name": "Crab Hill",
+        "place": "village",
+        "population": "727",
+        "population:date": "2018",
+        "source:population": "wikipedia",
+        "wikidata": "Q21746100",
+        "wikipedia": "en:Crab Hill, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6373798,
+          13.3200667
+        ]
+      },
+      "id": "node/441198304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198307",
+        "name": "Salmond",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.633803,
+          13.326228
+        ]
+      },
+      "id": "node/441198307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441198310",
+        "name": "Archers",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6373864,
+          13.3168945
+        ]
+      },
+      "id": "node/441198310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202905",
+        "name": "Content",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6360775,
+          13.3122381
+        ]
+      },
+      "id": "node/441202905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202907",
+        "name": "Grape Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6348973,
+          13.3219476
+        ]
+      },
+      "id": "node/441202907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202909",
+        "name": "Retreat",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6147486,
+          13.3285248
+        ]
+      },
+      "id": "node/441202909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202911",
+        "name": "Bright Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.617699,
+          13.3233361
+        ]
+      },
+      "id": "node/441202911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202912",
+        "name": "Connell Town",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6151772,
+          13.3265845
+        ]
+      },
+      "id": "node/441202912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202913",
+        "name": "Harris",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6172162,
+          13.3109017
+        ]
+      },
+      "id": "node/441202913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202915",
+        "name": "Spring Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6112295,
+          13.3096488
+        ]
+      },
+      "id": "node/441202915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202916",
+        "name": "Mount Poyer",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6228596,
+          13.3147855
+        ]
+      },
+      "id": "node/441202916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202918",
+        "name": "Durham",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6098562,
+          13.3040108
+        ]
+      },
+      "id": "node/441202918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202920",
+        "name": "Rock Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6041485,
+          13.3002103
+        ]
+      },
+      "id": "node/441202920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441202921",
+        "name": "Jemmotts",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6037837,
+          13.3043241
+        ]
+      },
+      "id": "node/441202921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207387",
+        "name": "Josey Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5966106,
+          13.3030448
+        ]
+      },
+      "id": "node/441207387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207389",
+        "name": "Mount View",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6000329,
+          13.3034888
+        ]
+      },
+      "id": "node/441207389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207390",
+        "name": "Chance Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6065517,
+          13.3092729
+        ]
+      },
+      "id": "node/441207390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207392",
+        "name": "Lowland",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5956512,
+          13.3081767
+        ]
+      },
+      "id": "node/441207392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207395",
+        "name": "Cave Hill",
+        "place": "hamlet",
+        "wikidata": "Q5054904",
+        "wikipedia": "en:Cave Hill, Saint Lucy, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5861669,
+          13.3015885
+        ]
+      },
+      "id": "node/441207395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441207398",
+        "name": "Alexandra",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6007152,
+          13.2924002
+        ]
+      },
+      "id": "node/441207398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441218231",
+        "name": "Lamberts",
+        "place": "hamlet",
+        "wikidata": "Q6481376"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5931063,
+          13.29559
+        ]
+      },
+      "id": "node/441218231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441218233",
+        "name": "Mount Gay",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.606938,
+          13.2907713
+        ]
+      },
+      "id": "node/441218233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441218234",
+        "name": "Church Hill",
+        "place": "hamlet",
+        "postal_code": "BB27144"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6193789,
+          13.2899598
+        ]
+      },
+      "id": "node/441218234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441218237",
+        "name": "Surinam",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5445391,
+          13.1966964
+        ]
+      },
+      "id": "node/441218237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441218239",
+        "name": "Horse Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5387963,
+          13.2003197
+        ]
+      },
+      "id": "node/441218239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441222023",
+        "name": "Hothersal",
+        "place": "village",
+        "postal_code": "BB20013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5132538,
+          13.1932284
+        ]
+      },
+      "id": "node/441222023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441222025",
+        "name": "Venture",
+        "place": "village",
+        "postal_code": "BB20014",
+        "wikidata": "Q25068541"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5242368,
+          13.1872274
+        ]
+      },
+      "id": "node/441222025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441222027",
+        "name": "Malvern",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5244118,
+          13.193312
+        ]
+      },
+      "id": "node/441222027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441222028",
+        "name": "Sherbourne",
+        "place": "village",
+        "postal_code": "BB20015",
+        "wikidata": "Q25068543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5200773,
+          13.1796487
+        ]
+      },
+      "id": "node/441222028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441224547",
+        "name": "Clifton Hill",
+        "place": "village",
+        "postal_code": "BB22060"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5677133,
+          13.1837436
+        ]
+      },
+      "id": "node/441224547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441224549",
+        "name": "Clifton",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5652457,
+          13.1760969
+        ]
+      },
+      "id": "node/441224549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441224553",
+        "name": "Bushy Park",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5555683,
+          13.1838272
+        ]
+      },
+      "id": "node/441224553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441224555",
+        "name": "Parris Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5481332,
+          13.1792851
+        ]
+      },
+      "id": "node/441224555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441264880",
+        "name": "Hopewell",
+        "place": "suburb",
+        "wikidata": "Q3916869"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5185924,
+          13.0589701
+        ]
+      },
+      "id": "node/441264880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441264885",
+        "name": "Chancery Lane",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5061469,
+          13.0603079
+        ]
+      },
+      "id": "node/441264885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441264890",
+        "name": "Ealing Park",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5139575,
+          13.0557511
+        ]
+      },
+      "id": "node/441264890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441264895",
+        "name": "Goodland",
+        "place": "suburb",
+        "wikidata": "Q25185028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5250473,
+          13.0554177
+        ]
+      },
+      "id": "node/441264895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441987213",
+        "country": "BB",
+        "name": "Highland",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4860759,
+          13.1074864
+        ]
+      },
+      "id": "node/441987213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441990610",
+        "name": "Six Mens",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6429084,
+          13.2692752
+        ]
+      },
+      "id": "node/441990610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441990611",
+        "name": "Rose Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6202933,
+          13.2698648
+        ]
+      },
+      "id": "node/441990611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441990612",
+        "name": "Checker Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6462839,
+          13.2817114
+        ]
+      },
+      "id": "node/441990612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/441990615",
+        "name": "Husbands",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6429247,
+          13.3004986
+        ]
+      },
+      "id": "node/441990615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445292774",
+        "name": "Enterprise",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5327219,
+          13.0571088
+        ]
+      },
+      "id": "node/445292774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445300495",
+        "name": "Clermont",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6161067,
+          13.1454277
+        ]
+      },
+      "id": "node/445300495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445307328",
+        "name": "Durants",
+        "place": "suburb",
+        "postal_code": "BB23010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6318567,
+          13.1586165
+        ]
+      },
+      "id": "node/445307328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445310685",
+        "name": "Sandy Lane",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6289212,
+          13.174178
+        ]
+      },
+      "id": "node/445310685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445321559",
+        "name": "Mount Standfast",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6348537,
+          13.2102754
+        ]
+      },
+      "id": "node/445321559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445321560",
+        "name": "The Garden",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6386347,
+          13.20811
+        ]
+      },
+      "id": "node/445321560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445321561",
+        "name": "Rock Dundo",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6249324,
+          13.229268
+        ]
+      },
+      "id": "node/445321561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445330769",
+        "name": "Silver Sands",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5182259,
+          13.0500254
+        ]
+      },
+      "id": "node/445330769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445336755",
+        "name": "Wilcox",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5099728,
+          13.0672695
+        ]
+      },
+      "id": "node/445336755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445414402",
+        "country": "BB",
+        "name": "Hastings",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5988807,
+          13.0751194
+        ]
+      },
+      "id": "node/445414402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445414403",
+        "country": "BB",
+        "name": "Rendezvous",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5823513,
+          13.0775475
+        ]
+      },
+      "id": "node/445414403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/445415087",
+        "country": "BB",
+        "name": "Rockley",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5871609,
+          13.0747562
+        ]
+      },
+      "id": "node/445415087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/668906273",
+        "name": "Kingsland",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.543854,
+          13.0785287
+        ]
+      },
+      "id": "node/668906273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1081480378",
+        "name": "Lemon Arbour",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5273782,
+          13.1691275
+        ]
+      },
+      "id": "node/1081480378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1247869002",
+        "name": "Thicket",
+        "place": "village",
+        "postal_code": "BB18004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4630447,
+          13.1557355
+        ]
+      },
+      "id": "node/1247869002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355806109",
+        "name": "Skeete's Bay",
+        "place": "hamlet",
+        "postal_code": "BB18030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4483359,
+          13.1683999
+        ]
+      },
+      "id": "node/1355806109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1355851226",
+        "name": "Bath",
+        "place": "hamlet",
+        "postal_code": "BB20006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4746871,
+          13.1862066
+        ]
+      },
+      "id": "node/1355851226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1666060557",
+        "name": "Chalky Mount",
+        "place": "village",
+        "wikidata": "Q5068860"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5539779,
+          13.2275799
+        ]
+      },
+      "id": "node/1666060557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622423314",
+        "name": "Gall Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5009277,
+          13.1813135
+        ]
+      },
+      "id": "node/2622423314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622423315",
+        "name": "Pool",
+        "place": "village",
+        "postal_code": "BB20016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5177849,
+          13.1728373
+        ]
+      },
+      "id": "node/2622423315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622423356",
+        "name": "Eastmont",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5058917,
+          13.1775863
+        ]
+      },
+      "id": "node/2622423356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2622425482",
+        "name": "Small Town",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5017252,
+          13.1727851
+        ]
+      },
+      "id": "node/2622425482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3343097296",
+        "name": "Date Tree Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5826999,
+          13.2926365
+        ]
+      },
+      "id": "node/3343097296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3573535185",
+        "name": "Barbados",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.5823626,
+          -19.5248148
+        ]
+      },
+      "id": "node/3573535185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3843900512",
+        "country": "BB",
+        "name": "New Orleans",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6190236,
+          13.1041167
+        ]
+      },
+      "id": "node/3843900512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873112545",
+        "name": "Parish Land",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5170395,
+          13.0729198
+        ]
+      },
+      "id": "node/3873112545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873130849",
+        "name": "Providence",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5245429,
+          13.0742562
+        ]
+      },
+      "id": "node/3873130849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873168969",
+        "name": "Durants",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5323641,
+          13.0716497
+        ]
+      },
+      "id": "node/3873168969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873168970",
+        "name": "Thornbury Hill",
+        "place": "village",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5341098,
+          13.0643515
+        ]
+      },
+      "id": "node/3873168970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873708373",
+        "country": "BB",
+        "name": "Maxwell",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5641168,
+          13.0709564
+        ]
+      },
+      "id": "node/3873708373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876626752",
+        "country": "BB",
+        "name": "Two Mile Hill",
+        "place": "suburb",
+        "wikidata": "Q7859094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5837963,
+          13.104962
+        ]
+      },
+      "id": "node/3876626752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876749004",
+        "name": "Belmont",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.594354,
+          13.1095801
+        ]
+      },
+      "id": "node/3876749004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876774875",
+        "name": "Government Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5941322,
+          13.1017935
+        ]
+      },
+      "id": "node/3876774875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3876774876",
+        "name": "Ivy",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5939316,
+          13.1046076
+        ]
+      },
+      "id": "node/3876774876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3877277323",
+        "name": "Bagatelle",
+        "place": "village",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6150769,
+          13.1610429
+        ]
+      },
+      "id": "node/3877277323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3883583369",
+        "name": "Greenwich",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6217961,
+          13.1982775
+        ]
+      },
+      "id": "node/3883583369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3883849204",
+        "name": "Paynes Bay",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6362336,
+          13.1655349
+        ]
+      },
+      "id": "node/3883849204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3883950585",
+        "name": "Fitts Village",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6376246,
+          13.1479303
+        ]
+      },
+      "id": "node/3883950585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3886902066",
+        "country": "BB",
+        "name": "Fairfield",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6155028,
+          13.1238811
+        ]
+      },
+      "id": "node/3886902066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3886902067",
+        "country": "BB",
+        "name": "Deacons",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6231299,
+          13.1161845
+        ]
+      },
+      "id": "node/3886902067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887352840",
+        "name": "Grand View",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6061551,
+          13.1651396
+        ]
+      },
+      "id": "node/3887352840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887354532",
+        "name": "Shop Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6011448,
+          13.1637397
+        ]
+      },
+      "id": "node/3887354532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3887355421",
+        "country": "BB",
+        "name": "Christie",
+        "place": "hamlet",
+        "postal_code": "BB22017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6056187,
+          13.1700704
+        ]
+      },
+      "id": "node/3887355421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893722085",
+        "name": "Green Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6069567,
+          13.1363213
+        ]
+      },
+      "id": "node/3893722085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893748646",
+        "country": "BB",
+        "name": "Warrens",
+        "place": "suburb",
+        "wikidata": "Q7970644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6076194,
+          13.1404888
+        ]
+      },
+      "id": "node/3893748646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3893894323",
+        "name": "Wildey",
+        "place": "suburb",
+        "wikidata": "Q8001210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5843134,
+          13.0924346
+        ]
+      },
+      "id": "node/3893894323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3895760298",
+        "name": "Charnocks",
+        "place": "suburb",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4938405,
+          13.0837023
+        ]
+      },
+      "id": "node/3895760298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3895953584",
+        "country": "BB",
+        "name": "Foursquare",
+        "place": "hamlet",
+        "source": "KG Ground Survey 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4823719,
+          13.1044707
+        ]
+      },
+      "id": "node/3895953584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4181586541",
+        "name": "Prospect",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6360011,
+          13.1409125
+        ]
+      },
+      "id": "node/4181586541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782867296",
+        "country": "BB",
+        "name": "Woodbourne",
+        "place": "village",
+        "postal_code": "BB18046",
+        "wikidata": "Q16903613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.492276,
+          13.102556
+        ]
+      },
+      "id": "node/4782867296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4782867297",
+        "country": "BB",
+        "name": "Saint Patrick's",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4987777,
+          13.0980627
+        ]
+      },
+      "id": "node/4782867297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784567197",
+        "country": "BB",
+        "name": "Warners",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5680231,
+          13.0804382
+        ]
+      },
+      "id": "node/4784567197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784567327",
+        "country": "BB",
+        "name": "Fairview",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5069799,
+          13.0942419
+        ]
+      },
+      "id": "node/4784567327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784798134",
+        "country": "BB",
+        "name": "Black Rock",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6262457,
+          13.1268589
+        ]
+      },
+      "id": "node/4784798134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784798135",
+        "country": "BB",
+        "name": "Cave Hill",
+        "place": "suburb",
+        "wikidata": "Q5054905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6284343,
+          13.1354212
+        ]
+      },
+      "id": "node/4784798135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4784807797",
+        "country": "BB",
+        "name": "Ruby",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4429319,
+          13.1262281
+        ]
+      },
+      "id": "node/4784807797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4851559734",
+        "country": "BB",
+        "name": "Kendal Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5580147,
+          13.0781328
+        ]
+      },
+      "id": "node/4851559734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4851559776",
+        "country": "BB",
+        "name": "Graeme Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5699448,
+          13.0743343
+        ]
+      },
+      "id": "node/4851559776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4896757024",
+        "name": "Oistins",
+        "name:en": "Oistins",
+        "place": "town",
+        "wikidata": "Q692475",
+        "wikipedia": "en:Oistins"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.542242,
+          13.0631947
+        ]
+      },
+      "id": "node/4896757024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4922562311",
+        "country": "BB",
+        "name": "Six Cross Roads",
+        "place": "town",
+        "wikidata": "Q7532684",
+        "wikipedia": "en:Six Cross Roads, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4770323,
+          13.1177607
+        ]
+      },
+      "id": "node/4922562311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4925482548",
+        "country": "BB",
+        "name": "Newton",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5327251,
+          13.0791896
+        ]
+      },
+      "id": "node/4925482548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4926777044",
+        "country": "BB",
+        "name": "Haggatt Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.577931,
+          13.1065039
+        ]
+      },
+      "id": "node/4926777044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005030958",
+        "name": "Union Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4469865,
+          13.1190569
+        ]
+      },
+      "id": "node/5005030958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005030959",
+        "name": "Kirtons",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4605906,
+          13.1083346
+        ]
+      },
+      "id": "node/5005030959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005030960",
+        "name": "Crane",
+        "place": "village",
+        "wikidata": "Q7727953",
+        "wikipedia": "en:The Crane, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4471092,
+          13.1052506
+        ]
+      },
+      "id": "node/5005030960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005030961",
+        "name": "Belair",
+        "place": "village",
+        "postal_code": "BB18075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4412052,
+          13.1181729
+        ]
+      },
+      "id": "node/5005030961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5007794540",
+        "name": "Heddings",
+        "place": "hamlet",
+        "postal_code": "BB18090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4597322,
+          13.1004861
+        ]
+      },
+      "id": "node/5007794540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5007794610",
+        "name": "Diamond Valley",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4481169,
+          13.1118176
+        ]
+      },
+      "id": "node/5007794610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5007794611",
+        "name": "Seaview",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4389384,
+          13.124095
+        ]
+      },
+      "id": "node/5007794611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761788",
+        "name": "Pine Gardens",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5965996,
+          13.0981988
+        ]
+      },
+      "id": "node/5032761788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761789",
+        "name": "Belleville",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6026292,
+          13.0964171
+        ]
+      },
+      "id": "node/5032761789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761790",
+        "name": "Carrington Village",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6036055,
+          13.1044999
+        ]
+      },
+      "id": "node/5032761790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761791",
+        "name": "St. Barnabas",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5817187,
+          13.1017413
+        ]
+      },
+      "id": "node/5032761791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761809",
+        "name": "Lower Burney",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5731705,
+          13.1041211
+        ]
+      },
+      "id": "node/5032761809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032761810",
+        "name": "The Pine",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5799833,
+          13.0993457
+        ]
+      },
+      "id": "node/5032761810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032762060",
+        "name": "Westbury",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6223495,
+          13.1092661
+        ]
+      },
+      "id": "node/5032762060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032762062",
+        "name": "Eagle Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6147401,
+          13.1132499
+        ]
+      },
+      "id": "node/5032762062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5032762063",
+        "name": "Eden Lodge",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.60955,
+          13.1348106
+        ]
+      },
+      "id": "node/5032762063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055074549",
+        "name": "Jackmans",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5915067,
+          13.1367299
+        ]
+      },
+      "id": "node/5055074549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055075193",
+        "name": "Lower Estate",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5838356,
+          13.1310566
+        ]
+      },
+      "id": "node/5055075193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055075206",
+        "name": "Neils",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.579587,
+          13.1180742
+        ]
+      },
+      "id": "node/5055075206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055075232",
+        "name": "Parish Land",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5719749,
+          13.1291497
+        ]
+      },
+      "id": "node/5055075232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5055077841",
+        "name": "Hothersal Turning",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5936283,
+          13.1302834
+        ]
+      },
+      "id": "node/5055077841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102175261",
+        "name": "Welches",
+        "place": "village",
+        "postal_code": "BB22025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6124685,
+          13.1532688
+        ]
+      },
+      "id": "node/5102175261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102218980",
+        "name": "Foul Bay",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.454875,
+          13.0966061
+        ]
+      },
+      "id": "node/5102218980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102218981",
+        "name": "Ocean City",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4573426,
+          13.0914543
+        ]
+      },
+      "id": "node/5102218981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102218983",
+        "name": "Greenpoint",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4619131,
+          13.0876087
+        ]
+      },
+      "id": "node/5102218983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802827",
+        "name": "Lears",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5867968,
+          13.1409614
+        ]
+      },
+      "id": "node/5138802827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802828",
+        "name": "Salters",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.572227,
+          13.1244531
+        ]
+      },
+      "id": "node/5138802828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802829",
+        "name": "Rowans",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5689844,
+          13.1372909
+        ]
+      },
+      "id": "node/5138802829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802830",
+        "name": "Brighton",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5293108,
+          13.12293
+        ]
+      },
+      "id": "node/5138802830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802831",
+        "name": "Windsor",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5241511,
+          13.1198766
+        ]
+      },
+      "id": "node/5138802831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802833",
+        "name": "Bentley",
+        "place": "hamlet",
+        "wikidata": "Q4890510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5106239,
+          13.1187976
+        ]
+      },
+      "id": "node/5138802833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802859",
+        "name": "Worthing",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5807135,
+          13.0709349
+        ]
+      },
+      "id": "node/5138802859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5138802887",
+        "name": "Brittons Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5963642,
+          13.0884767
+        ]
+      },
+      "id": "node/5138802887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339083",
+        "name": "Walkers",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5599577,
+          13.1323901
+        ]
+      },
+      "id": "node/5142339083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339084",
+        "name": "Workmans",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5475078,
+          13.1429253
+        ]
+      },
+      "id": "node/5142339084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339085",
+        "name": "Newbury",
+        "place": "suburb",
+        "wikidata": "Q110555301",
+        "wikipedia": "en:Newbury, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5563053,
+          13.1495014
+        ]
+      },
+      "id": "node/5142339085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339086",
+        "name": "Free Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5497503,
+          13.1438967
+        ]
+      },
+      "id": "node/5142339086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339087",
+        "name": "The Glebe",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5629076,
+          13.1327379
+        ]
+      },
+      "id": "node/5142339087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339088",
+        "name": "Jordans",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5488382,
+          13.1393585
+        ]
+      },
+      "id": "node/5142339088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339089",
+        "name": "Good Intent",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5456262,
+          13.1363921
+        ]
+      },
+      "id": "node/5142339089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339090",
+        "name": "Eastlyn",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5443,
+          13.1297124
+        ]
+      },
+      "id": "node/5142339090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339091",
+        "name": "Cottage",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5524104,
+          13.1528199
+        ]
+      },
+      "id": "node/5142339091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339092",
+        "name": "Market Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5593214,
+          13.1572466
+        ]
+      },
+      "id": "node/5142339092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339093",
+        "name": "Belair",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5621434,
+          13.1550188
+        ]
+      },
+      "id": "node/5142339093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339094",
+        "name": "Flat Rock",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.571127,
+          13.1457953
+        ]
+      },
+      "id": "node/5142339094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339095",
+        "name": "Bournes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5784378,
+          13.1454717
+        ]
+      },
+      "id": "node/5142339095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339096",
+        "name": "Roach Village",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5638306,
+          13.1583029
+        ]
+      },
+      "id": "node/5142339096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339097",
+        "name": "Jericho",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5599585,
+          13.1606947
+        ]
+      },
+      "id": "node/5142339097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339098",
+        "name": "Sweet Vale",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5476052,
+          13.1658719
+        ]
+      },
+      "id": "node/5142339098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142339099",
+        "name": "Golden Ridge",
+        "place": "village",
+        "postal_code": "BB20032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5420757,
+          13.1647686
+        ]
+      },
+      "id": "node/5142339099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152899280",
+        "name": "Lower Collymore Rock",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6044229,
+          13.0927395
+        ]
+      },
+      "id": "node/5152899280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152899281",
+        "name": "Collymore Rock",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5954171,
+          13.0933524
+        ]
+      },
+      "id": "node/5152899281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152899282",
+        "name": "Bank Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6103843,
+          13.1109794
+        ]
+      },
+      "id": "node/5152899282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5152899283",
+        "name": "Bush Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6043676,
+          13.1147228
+        ]
+      },
+      "id": "node/5152899283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198404417",
+        "name": "Long Bay",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4375615,
+          13.1280839
+        ]
+      },
+      "id": "node/5198404417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198404418",
+        "name": "Eastbourne",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4390355,
+          13.1314495
+        ]
+      },
+      "id": "node/5198404418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198404419",
+        "name": "Wellhouse",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4361813,
+          13.1367051
+        ]
+      },
+      "id": "node/5198404419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198404420",
+        "name": "Harrismith",
+        "place": "village",
+        "postal_code": "BB18071"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4314006,
+          13.1346968
+        ]
+      },
+      "id": "node/5198404420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405921",
+        "name": "River Land",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4379812,
+          13.1409301
+        ]
+      },
+      "id": "node/5198405921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405923",
+        "name": "Lynches",
+        "place": "village",
+        "postal_code": "BB18065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.433754,
+          13.1427839
+        ]
+      },
+      "id": "node/5198405923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405924",
+        "name": "Apple Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4293054,
+          13.1416588
+        ]
+      },
+      "id": "node/5198405924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405925",
+        "name": "Merricks",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4299615,
+          13.1457618
+        ]
+      },
+      "id": "node/5198405925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405926",
+        "name": "Coles",
+        "place": "village",
+        "postal_code": "BB18068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4288931,
+          13.1523143
+        ]
+      },
+      "id": "node/5198405926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405927",
+        "name": "Sealy Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4374009,
+          13.1553576
+        ]
+      },
+      "id": "node/5198405927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405928",
+        "name": "Marley Vale",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4400922,
+          13.1619344
+        ]
+      },
+      "id": "node/5198405928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5198405929",
+        "name": "Bayfield",
+        "name:ru": "Бэйфилд",
+        "place": "village",
+        "wikidata": "Q4874499",
+        "wikipedia": "en:Bayfield, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4536699,
+          13.1661442
+        ]
+      },
+      "id": "node/5198405929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368150",
+        "name": "Upper Carlton",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6242833,
+          13.220906
+        ]
+      },
+      "id": "node/5204368150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368151",
+        "name": "Sion Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6225238,
+          13.2244571
+        ]
+      },
+      "id": "node/5204368151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368152",
+        "name": "Lower Carlton",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6391535,
+          13.2217938
+        ]
+      },
+      "id": "node/5204368152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368154",
+        "name": "Seaview",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6229744,
+          13.1854862
+        ]
+      },
+      "id": "node/5204368154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368155",
+        "name": "Lascelles",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6313,
+          13.1843789
+        ]
+      },
+      "id": "node/5204368155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368164",
+        "name": "Trents",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6375656,
+          13.191597
+        ]
+      },
+      "id": "node/5204368164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368165",
+        "name": "Jamestown Park",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6342397,
+          13.1877477
+        ]
+      },
+      "id": "node/5204368165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368166",
+        "name": "Sunset Crest",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.636364,
+          13.1818928
+        ]
+      },
+      "id": "node/5204368166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368167",
+        "name": "Hoytes Village",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6212471,
+          13.1617413
+        ]
+      },
+      "id": "node/5204368167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368170",
+        "name": "Holders Hill",
+        "place": "suburb",
+        "postal_code": "BB23001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6342612,
+          13.1612503
+        ]
+      },
+      "id": "node/5204368170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368187",
+        "name": "Coral Glade",
+        "place": "suburb",
+        "postal_code": "BB23004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6167409,
+          13.1575781
+        ]
+      },
+      "id": "node/5204368187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204368215",
+        "name": "Halls Village",
+        "place": "suburb",
+        "postal_code": "BB23016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6215046,
+          13.1533731
+        ]
+      },
+      "id": "node/5204368215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369422",
+        "name": "Oxnards",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6288484,
+          13.1472979
+        ]
+      },
+      "id": "node/5204369422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369432",
+        "name": "Husbands",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6230355,
+          13.1446031
+        ]
+      },
+      "id": "node/5204369432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369469",
+        "name": "Wanstead",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6279741,
+          13.1394986
+        ]
+      },
+      "id": "node/5204369469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369475",
+        "name": "West Terrace",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6320725,
+          13.1450046
+        ]
+      },
+      "id": "node/5204369475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369476",
+        "name": "Lazaretto",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6346796,
+          13.1361971
+        ]
+      },
+      "id": "node/5204369476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369477",
+        "name": "St. Stephens",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6231461,
+          13.1294475
+        ]
+      },
+      "id": "node/5204369477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369478",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6163471,
+          13.1385252
+        ]
+      },
+      "id": "node/5204369478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369479",
+        "name": "Rock Dundo",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61658,
+          13.1353403
+        ]
+      },
+      "id": "node/5204369479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369558",
+        "name": "White Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6140802,
+          13.1315372
+        ]
+      },
+      "id": "node/5204369558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369559",
+        "name": "Tudor Bridge",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.61393,
+          13.1174107
+        ]
+      },
+      "id": "node/5204369559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369560",
+        "name": "Spooners Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6100783,
+          13.1214021
+        ]
+      },
+      "id": "node/5204369560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369561",
+        "name": "Grazettes",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6130824,
+          13.1268145
+        ]
+      },
+      "id": "node/5204369561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369562",
+        "name": "Whitepark",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6137422,
+          13.1028184
+        ]
+      },
+      "id": "node/5204369562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369563",
+        "name": "Station Hill",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6034265,
+          13.1111204
+        ]
+      },
+      "id": "node/5204369563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369564",
+        "name": "Arthur Seat",
+        "place": "village",
+        "postal_code": "BB22022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.604038,
+          13.148818
+        ]
+      },
+      "id": "node/5204369564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369633",
+        "name": "Canewood",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5935881,
+          13.1473136
+        ]
+      },
+      "id": "node/5204369633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369635",
+        "name": "Applewhaites Tenantry",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5756817,
+          13.1555462
+        ]
+      },
+      "id": "node/5204369635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369637",
+        "name": "Boarded Hall",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5414567,
+          13.108529
+        ]
+      },
+      "id": "node/5204369637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369638",
+        "name": "Frere Pilgrim",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5403195,
+          13.1037641
+        ]
+      },
+      "id": "node/5204369638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369640",
+        "name": "The Ridge",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.528389,
+          13.094234
+        ]
+      },
+      "id": "node/5204369640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369641",
+        "name": "Lower Greys",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5278593,
+          13.1092772
+        ]
+      },
+      "id": "node/5204369641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369643",
+        "name": "Edey Village",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5402551,
+          13.0989154
+        ]
+      },
+      "id": "node/5204369643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369644",
+        "name": "Searles",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5133901,
+          13.091935
+        ]
+      },
+      "id": "node/5204369644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369660",
+        "name": "Lowlands",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5169124,
+          13.0834572
+        ]
+      },
+      "id": "node/5204369660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5204369661",
+        "name": "Balls",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5256701,
+          13.0811804
+        ]
+      },
+      "id": "node/5204369661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210915421",
+        "name": "Thyme Bottom",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5103986,
+          13.0725284
+        ]
+      },
+      "id": "node/5210915421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5210915422",
+        "name": "Waterford",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6027755,
+          13.1184263
+        ]
+      },
+      "id": "node/5210915422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212553369",
+        "name": "Dayrells Road",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5966459,
+          13.0809205
+        ]
+      },
+      "id": "node/5212553369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212553385",
+        "name": "Dalkeith",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6007174,
+          13.084599
+        ]
+      },
+      "id": "node/5212553385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212553388",
+        "name": "Bayville",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6054542,
+          13.087849
+        ]
+      },
+      "id": "node/5212553388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5212561106",
+        "name": "Brighton",
+        "place": "suburb",
+        "wikidata": "Q111912101",
+        "wikipedia": "en:Brighton, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6269504,
+          13.1209401
+        ]
+      },
+      "id": "node/5212561106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5239997701",
+        "name": "Francia Plantation",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5638156,
+          13.1433017
+        ]
+      },
+      "id": "node/5239997701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5249731052",
+        "name": "Weymouth",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6098209,
+          13.1023325
+        ]
+      },
+      "id": "node/5249731052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5373793495",
+        "name": "St. Judes",
+        "place": "village",
+        "postal_code": "BB20031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5365406,
+          13.1570103
+        ]
+      },
+      "id": "node/5373793495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5373793496",
+        "name": "Superlative",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5415211,
+          13.1571968
+        ]
+      },
+      "id": "node/5373793496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5504127176",
+        "name": "Tichbourne",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5851788,
+          13.1088654
+        ]
+      },
+      "id": "node/5504127176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528666872",
+        "name": "Harrisons",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6490941,
+          13.3044347
+        ]
+      },
+      "id": "node/7528666872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528666873",
+        "name": "Friendship",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6295569,
+          13.30835
+        ]
+      },
+      "id": "node/7528666873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528669859",
+        "name": "Bromefield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.643026,
+          13.2942779
+        ]
+      },
+      "id": "node/7528669859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528771221",
+        "name": "Cluffs",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.625834,
+          13.3288895
+        ]
+      },
+      "id": "node/7528771221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528771222",
+        "name": "Roaches",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6241872,
+          13.3256428
+        ]
+      },
+      "id": "node/7528771222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528771224",
+        "name": "Free Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5921723,
+          13.3069371
+        ]
+      },
+      "id": "node/7528771224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528774036",
+        "name": "Little Bay",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.579844,
+          13.3073186
+        ]
+      },
+      "id": "node/7528774036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7528774037",
+        "name": "Cove",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5776553,
+          13.3023697
+        ]
+      },
+      "id": "node/7528774037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529073892",
+        "name": "Bourbon",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6334899,
+          13.2898864
+        ]
+      },
+      "id": "node/7529073892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529073893",
+        "name": "Babbs",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6353493,
+          13.2882316
+        ]
+      },
+      "id": "node/7529073893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529073894",
+        "name": "Maycock",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6426487,
+          13.2897037
+        ]
+      },
+      "id": "node/7529073894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529073895",
+        "name": "Clinketts",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6464011,
+          13.2757717
+        ]
+      },
+      "id": "node/7529073895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529108363",
+        "name": "Benthams",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6263048,
+          13.2883002
+        ]
+      },
+      "id": "node/7529108363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529108364",
+        "name": "Allmans",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6336755,
+          13.2824564
+        ]
+      },
+      "id": "node/7529108364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7529440674",
+        "name": "Graveyard",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5832644,
+          13.2971902
+        ]
+      },
+      "id": "node/7529440674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7530252237",
+        "name": "Spring Garden",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6021879,
+          13.3149835
+        ]
+      },
+      "id": "node/7530252237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7540036584",
+        "name": "Trents",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6277026,
+          13.2982959
+        ]
+      },
+      "id": "node/7540036584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7540076013",
+        "name": "Greenidge",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6248035,
+          13.3200717
+        ]
+      },
+      "id": "node/7540076013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573426832",
+        "name": "Roebuck",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5993471,
+          13.2478734
+        ]
+      },
+      "id": "node/7573426832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573426833",
+        "name": "Indian Ground",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5977807,
+          13.2519045
+        ]
+      },
+      "id": "node/7573426833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573426834",
+        "name": "Four Hills",
+        "place": "village",
+        "wikidata": "Q25068531",
+        "wikipedia": "en:Fourhill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6028876,
+          13.2510481
+        ]
+      },
+      "id": "node/7573426834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573426835",
+        "name": "Swanns",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5934677,
+          13.236281
+        ]
+      },
+      "id": "node/7573426835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573426836",
+        "name": "French Village",
+        "place": "village",
+        "wikidata": "Q25068528",
+        "wikipedia": "en:French Village, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6069431,
+          13.2623056
+        ]
+      },
+      "id": "node/7573426836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573435448",
+        "name": "Rock Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6000337,
+          13.2396648
+        ]
+      },
+      "id": "node/7573435448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573445245",
+        "name": "Diamond Corner",
+        "place": "village",
+        "postal_code": "BB25012",
+        "wikidata": "Q25068524",
+        "wikipedia": "en:Diamond Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.598191,
+          13.276797
+        ]
+      },
+      "id": "node/7573445245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573445246",
+        "name": "Moore Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.594672,
+          13.2769223
+        ]
+      },
+      "id": "node/7573445246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573448737",
+        "name": "The Risk",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5782783,
+          13.293817
+        ]
+      },
+      "id": "node/7573448737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573448738",
+        "name": "Gays",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.585177,
+          13.2852132
+        ]
+      },
+      "id": "node/7573448738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7573448739",
+        "name": "Collins",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5839324,
+          13.2888887
+        ]
+      },
+      "id": "node/7573448739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618403730",
+        "name": "Springhead",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6051101,
+          13.2264954
+        ]
+      },
+      "id": "node/7618403730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618403731",
+        "name": "Taitts",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6117406,
+          13.2240305
+        ]
+      },
+      "id": "node/7618403731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618448990",
+        "name": "Deanes",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6134546,
+          13.2134966
+        ]
+      },
+      "id": "node/7618448990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618449219",
+        "name": "Apes Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6082133,
+          13.2166018
+        ]
+      },
+      "id": "node/7618449219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618556587",
+        "name": "Hillaby",
+        "place": "village",
+        "wikidata": "Q11709795",
+        "wikipedia": "en:Hillaby, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.590805,
+          13.2119592
+        ]
+      },
+      "id": "node/7618556587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7618570962",
+        "name": "Dunscombe",
+        "place": "village",
+        "postal_code": "BB22007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5935631,
+          13.1959023
+        ]
+      },
+      "id": "node/7618570962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619311594",
+        "name": "Fruitful Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5611168,
+          13.2133657
+        ]
+      },
+      "id": "node/7619311594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619311595",
+        "name": "Cane Garden",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5655129,
+          13.2162824
+        ]
+      },
+      "id": "node/7619311595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619311596",
+        "name": "Baxters",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5659206,
+          13.222946
+        ]
+      },
+      "id": "node/7619311596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619321197",
+        "name": "Turner's Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5872012,
+          13.2217292
+        ]
+      },
+      "id": "node/7619321197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619321198",
+        "name": "White Hill",
+        "place": "hamlet",
+        "postal_code": "BB25107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5812145,
+          13.2137496
+        ]
+      },
+      "id": "node/7619321198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619321199",
+        "name": "Mount All",
+        "place": "hamlet",
+        "postal_code": "BB25107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5748523,
+          13.2216248
+        ]
+      },
+      "id": "node/7619321199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619321200",
+        "name": "Boarded Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5685867,
+          13.2179344
+        ]
+      },
+      "id": "node/7619321200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619417970",
+        "name": "Black Bess",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6172259,
+          13.2392422
+        ]
+      },
+      "id": "node/7619417970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619872408",
+        "name": "Mount Brevitor",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6204045,
+          13.2642613
+        ]
+      },
+      "id": "node/7619872408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619882515",
+        "name": "Retreat",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6344888,
+          13.2657643
+        ]
+      },
+      "id": "node/7619882515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7619882516",
+        "name": "Maynards",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6313774,
+          13.2681243
+        ]
+      },
+      "id": "node/7619882516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620431535",
+        "name": "Fustic",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6440267,
+          13.2796871
+        ]
+      },
+      "id": "node/7620431535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620431536",
+        "name": "Colleton",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6388508,
+          13.2762203
+        ]
+      },
+      "id": "node/7620431536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620431538",
+        "name": "Luke Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.617951,
+          13.2819008
+        ]
+      },
+      "id": "node/7620431538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620431540",
+        "name": "Castle",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5926953,
+          13.2852421
+        ]
+      },
+      "id": "node/7620431540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7620538255",
+        "name": "St. Lawrence",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5746494,
+          13.0677022
+        ]
+      },
+      "id": "node/7620538255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7621949474",
+        "name": "Walronds",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4917201,
+          13.0951609
+        ]
+      },
+      "id": "node/7621949474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7751335086",
+        "name": "Dayrells",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5801665,
+          13.1383106
+        ]
+      },
+      "id": "node/7751335086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764118412",
+        "name": "Four Roads",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5222355,
+          13.1705145
+        ]
+      },
+      "id": "node/7764118412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764157087",
+        "name": "Cherry Grove",
+        "place": "village",
+        "wikidata": "Q24901181",
+        "wikipedia": "en:Cherry Grove, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5168818,
+          13.1663114
+        ]
+      },
+      "id": "node/7764157087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764180539",
+        "name": "Massiah Street",
+        "place": "village",
+        "postal_code": "BB20008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4821163,
+          13.1621412
+        ]
+      },
+      "id": "node/7764180539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764296417",
+        "name": "Society",
+        "place": "village",
+        "postal_code": "BB20009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4780113,
+          13.1693862
+        ]
+      },
+      "id": "node/7764296417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764296418",
+        "name": "Atlantic Park",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5341016,
+          13.2228987
+        ]
+      },
+      "id": "node/7764296418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764296419",
+        "name": "Windy Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5555106,
+          13.2446298
+        ]
+      },
+      "id": "node/7764296419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7764337488",
+        "name": "Bawdens",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5821882,
+          13.2443297
+        ]
+      },
+      "id": "node/7764337488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779449328",
+        "name": "Airy Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5556969,
+          13.1901899
+        ]
+      },
+      "id": "node/7779449328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779470777",
+        "name": "Bowling Alley Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5425541,
+          13.1949114
+        ]
+      },
+      "id": "node/7779470777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779489052",
+        "name": "St. Elizabeths",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5275658,
+          13.2096601
+        ]
+      },
+      "id": "node/7779489052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779494291",
+        "name": "Easy Hall",
+        "place": "hamlet",
+        "postal_code": "BB20033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5304417,
+          13.1957777
+        ]
+      },
+      "id": "node/7779494291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7779494292",
+        "name": "Hackletons",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5252203,
+          13.2008646
+        ]
+      },
+      "id": "node/7779494292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7913791538",
+        "name": "Pothouse",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5019033,
+          13.1839916
+        ]
+      },
+      "id": "node/7913791538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8074861123",
+        "name": "Blades Hill",
+        "place": "village",
+        "postal_code": "BB18027"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4596612,
+          13.1625713
+        ]
+      },
+      "id": "node/8074861123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089771553",
+        "name": "Lion Castle",
+        "place": "village",
+        "postal_code": "BB22006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5851094,
+          13.1838732
+        ]
+      },
+      "id": "node/8089771553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089771554",
+        "name": "Dukes",
+        "place": "hamlet",
+        "postal_code": "BB22006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5955593,
+          13.1828077
+        ]
+      },
+      "id": "node/8089771554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089771555",
+        "name": "Canefield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5841438,
+          13.1953845
+        ]
+      },
+      "id": "node/8089771555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089771557",
+        "name": "Bloomsbury",
+        "place": "hamlet",
+        "postal_code": "BB22072"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.57231,
+          13.1959694
+        ]
+      },
+      "id": "node/8089771557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781388",
+        "name": "Mount Wilton",
+        "place": "hamlet",
+        "postal_code": "BB22069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5648105,
+          13.1898065
+        ]
+      },
+      "id": "node/8089781388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781389",
+        "name": "Walkes Springs",
+        "place": "hamlet",
+        "postal_code": "BB22070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5740802,
+          13.1763937
+        ]
+      },
+      "id": "node/8089781389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781390",
+        "name": "Strong Hope",
+        "place": "hamlet",
+        "postal_code": "BB22087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5714838,
+          13.1708988
+        ]
+      },
+      "id": "node/8089781390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781391",
+        "name": "Fisherpond",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5595748,
+          13.1697288
+        ]
+      },
+      "id": "node/8089781391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781392",
+        "name": "Proutes",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5768911,
+          13.1631473
+        ]
+      },
+      "id": "node/8089781392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781393",
+        "name": "Bibbys Lane",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5872337,
+          13.1548941
+        ]
+      },
+      "id": "node/8089781393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781394",
+        "name": "Bridgefield",
+        "place": "village",
+        "postal_code": "BB22115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5902378,
+          13.1577148
+        ]
+      },
+      "id": "node/8089781394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089781396",
+        "name": "Edge Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6012671,
+          13.1588431
+        ]
+      },
+      "id": "node/8089781396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827942",
+        "name": "Bennetts",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.612477,
+          13.1724414
+        ]
+      },
+      "id": "node/8089827942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827943",
+        "name": "White Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5969938,
+          13.1631757
+        ]
+      },
+      "id": "node/8089827943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827944",
+        "name": "Endeavour",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5910961,
+          13.1777308
+        ]
+      },
+      "id": "node/8089827944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827945",
+        "name": "Content",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6054084,
+          13.1836434
+        ]
+      },
+      "id": "node/8089827945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827946",
+        "name": "Rock Hall",
+        "place": "village",
+        "postal_code": "BB22008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6000654,
+          13.188156
+        ]
+      },
+      "id": "node/8089827946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827948",
+        "name": "Porey Spring",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.597512,
+          13.1932118
+        ]
+      },
+      "id": "node/8089827948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827949",
+        "name": "Farmers",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5977909,
+          13.2047644
+        ]
+      },
+      "id": "node/8089827949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827950",
+        "name": "Blunts",
+        "place": "hamlet",
+        "postal_code": "BB22002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5844013,
+          13.2041586
+        ]
+      },
+      "id": "node/8089827950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089827951",
+        "name": "Highclere",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5924909,
+          13.2039915
+        ]
+      },
+      "id": "node/8089827951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089829759",
+        "name": "Mount Misery",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5869977,
+          13.1970557
+        ]
+      },
+      "id": "node/8089829759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8089829760",
+        "name": "Hopewell",
+        "place": "village",
+        "wikidata": "Q5900236",
+        "wikipedia": "en:Hopewell, Saint Thomas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5818028,
+          13.1758162
+        ]
+      },
+      "id": "node/8089829760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8091963357",
+        "name": "Carrington",
+        "place": "hamlet",
+        "wikidata": "Q5046429",
+        "wikipedia": "en:Carrington, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.576523,
+          13.1959213
+        ]
+      },
+      "id": "node/8091963357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8091963358",
+        "name": "Rugby",
+        "place": "hamlet",
+        "postal_code": "BB22108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5894727,
+          13.1618386
+        ]
+      },
+      "id": "node/8091963358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150168761",
+        "name": "Lakes",
+        "place": "hamlet",
+        "postal_code": "BB25081"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5587303,
+          13.2411103
+        ]
+      },
+      "id": "node/8150168761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150168762",
+        "name": "Haggatts",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5650389,
+          13.2287239
+        ]
+      },
+      "id": "node/8150168762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150168763",
+        "name": "Bruce Vale",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5637514,
+          13.2271573
+        ]
+      },
+      "id": "node/8150168763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150168764",
+        "name": "St. Simons",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5748236,
+          13.2335282
+        ]
+      },
+      "id": "node/8150168764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150168765",
+        "name": "Cambridge",
+        "note": "Postalcode is BB25072 according to worldpostalcode.com\nPostalcode is BB25071 according to getpostalcodes.com",
+        "place": "hamlet",
+        "wikidata": "Q24901256",
+        "wikipedia": "en:Cambridge, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5467784,
+          13.2304472
+        ]
+      },
+      "id": "node/8150168765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151088316",
+        "name": "Four Roads",
+        "place": "village",
+        "wikidata": "Q5475455",
+        "wikipedia": "en:Four Roads, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4721085,
+          13.1099009
+        ]
+      },
+      "id": "node/8151088316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151103095",
+        "name": "Beulah",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4569058,
+          13.122868
+        ]
+      },
+      "id": "node/8151103095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151103096",
+        "name": "Jezreel",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4505234,
+          13.1318781
+        ]
+      },
+      "id": "node/8151103096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151103097",
+        "name": "Windward Gardens",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4550604,
+          13.1265877
+        ]
+      },
+      "id": "node/8151103097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151112418",
+        "name": "Edgecumbe",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5115799,
+          13.1220948
+        ]
+      },
+      "id": "node/8151112418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151112419",
+        "name": "Rices",
+        "place": "hamlet",
+        "postal_code": "BB18090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4547386,
+          13.1034745
+        ]
+      },
+      "id": "node/8151112419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151112420",
+        "name": "Robinsons",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4449753,
+          13.1299312
+        ]
+      },
+      "id": "node/8151112420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151133611",
+        "name": "Industry Hall",
+        "place": "village",
+        "postal_code": "BB18033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4314355,
+          13.1587251
+        ]
+      },
+      "id": "node/8151133611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185209",
+        "name": "Mapps",
+        "place": "hamlet",
+        "postal_code": "BB18063"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4513482,
+          13.142636
+        ]
+      },
+      "id": "node/8151185209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185210",
+        "name": "Bayleys",
+        "place": "hamlet",
+        "wikidata": "Q4874578",
+        "wikipedia": "en:Bayleys, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4509795,
+          13.1455925
+        ]
+      },
+      "id": "node/8151185210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185211",
+        "name": "Golden Grove",
+        "place": "hamlet",
+        "postal_code": "BB18035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.448352,
+          13.1557292
+        ]
+      },
+      "id": "node/8151185211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185212",
+        "name": "St. Catherine's",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4434223,
+          13.156442
+        ]
+      },
+      "id": "node/8151185212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185213",
+        "name": "Fortescue",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4592864,
+          13.1734286
+        ]
+      },
+      "id": "node/8151185213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185214",
+        "name": "St. Marks",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4620759,
+          13.1766879
+        ]
+      },
+      "id": "node/8151185214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185215",
+        "name": "Supers",
+        "place": "hamlet",
+        "pos": "BB18004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.465273,
+          13.1686649
+        ]
+      },
+      "id": "node/8151185215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151185216",
+        "name": "Parish Land",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4806422,
+          13.1467497
+        ]
+      },
+      "id": "node/8151185216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151206818",
+        "name": "Oughterson",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4758778,
+          13.1428099
+        ]
+      },
+      "id": "node/8151206818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151206819",
+        "name": "Church Village",
+        "place": "village",
+        "wikidata": "Q5116729",
+        "wikipedia": "en:Church Village, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4877178,
+          13.1391826
+        ]
+      },
+      "id": "node/8151206819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151649927",
+        "name": "Moncreiffe",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4862693,
+          13.1539272
+        ]
+      },
+      "id": "node/8151649927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151745401",
+        "name": "Pickerings",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6171611,
+          13.2973339
+        ]
+      },
+      "id": "node/8151745401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8151745402",
+        "name": "Swampy Town",
+        "place": "hamlet",
+        "postal_code": "BB27075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6309799,
+          13.3018271
+        ]
+      },
+      "id": "node/8151745402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976055",
+        "name": "Martins Bay",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4920581,
+          13.1968187
+        ]
+      },
+      "id": "node/8155976055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976056",
+        "name": "St. Margaret's",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5030874,
+          13.1999976
+        ]
+      },
+      "id": "node/8155976056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976057",
+        "name": "Church View",
+        "place": "village",
+        "postal_code": "BB20011",
+        "wikidata": "Q111912027",
+        "wikipedia": "en:Church View, Saint George, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5006503,
+          13.1888355
+        ]
+      },
+      "id": "node/8155976057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976058",
+        "name": "New Castle",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4961135,
+          13.1933466
+        ]
+      },
+      "id": "node/8155976058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976059",
+        "name": "Cliff Cottage",
+        "place": "village",
+        "postal_code": "BB20010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4917148,
+          13.1812997
+        ]
+      },
+      "id": "node/8155976059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976060",
+        "name": "Welch Town",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4855779,
+          13.1826368
+        ]
+      },
+      "id": "node/8155976060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976062",
+        "name": "Conset Bay",
+        "place": "hamlet",
+        "postal_code": "20007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.465,
+          13.1797118
+        ]
+      },
+      "id": "node/8155976062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976065",
+        "name": "Wilson Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5302099,
+          13.181237
+        ]
+      },
+      "id": "node/8155976065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976066",
+        "name": "Bowmanston",
+        "place": "hamlet",
+        "wikidata": "Q24901165",
+        "wikipedia": "en:Bowmanston"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5059412,
+          13.1672805
+        ]
+      },
+      "id": "node/8155976066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976070",
+        "name": "Claybury",
+        "place": "hamlet",
+        "postal_code": "BB20033"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5363897,
+          13.1817802
+        ]
+      },
+      "id": "node/8155976070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976072",
+        "name": "Blackmans",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5439106,
+          13.18935
+        ]
+      },
+      "id": "node/8155976072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976073",
+        "name": "Coffee Gully",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.55141,
+          13.1938556
+        ]
+      },
+      "id": "node/8155976073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155976074",
+        "name": "Braggs Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5494145,
+          13.1884656
+        ]
+      },
+      "id": "node/8155976074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8155983758",
+        "name": "Sugar Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5599502,
+          13.197804
+        ]
+      },
+      "id": "node/8155983758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8156117239",
+        "name": "Oldbury",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4760168,
+          13.0935948
+        ]
+      },
+      "id": "node/8156117239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8156117241",
+        "name": "Fairy Valley",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5021021,
+          13.068317
+        ]
+      },
+      "id": "node/8156117241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8156117242",
+        "name": "Gibbons",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5185633,
+          13.0667829
+        ]
+      },
+      "id": "node/8156117242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8256105668",
+        "name": "River Bay",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6002922,
+          13.3220745
+        ]
+      },
+      "id": "node/8256105668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8329544345",
+        "name": "Castle Heights",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4375467,
+          13.133935
+        ]
+      },
+      "id": "node/8329544345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9201350165",
+        "name": "Woodbourne Park",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4891243,
+          13.1037284
+        ]
+      },
+      "id": "node/9201350165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9220028407",
+        "name": "Shrewbury",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4354053,
+          13.1359785
+        ]
+      },
+      "id": "node/9220028407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9220028408",
+        "name": "Bequest",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4326625,
+          13.1330086
+        ]
+      },
+      "id": "node/9220028408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9220047731",
+        "name": "Harmony Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4362532,
+          13.1345513
+        ]
+      },
+      "id": "node/9220047731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9598292934",
+        "name": "Bannatyne",
+        "place": "village",
+        "wikidata": "Q24900712",
+        "wikipedia": "en:Bannatyne, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5495597,
+          13.0895422
+        ]
+      },
+      "id": "node/9598292934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9604307290",
+        "name": "The Mount",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5297886,
+          13.1368111
+        ]
+      },
+      "id": "node/9604307290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9651965334",
+        "name": "Lancaster",
+        "place": "village",
+        "wikipedia": "en:Lancaster, Saint James, Barbados"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6196209,
+          13.2034772
+        ]
+      },
+      "id": "node/9651965334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668691331",
+        "name": "Foster Hall",
+        "place": "hamlet",
+        "postal_code": "BB20001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5124448,
+          13.2026777
+        ]
+      },
+      "id": "node/9668691331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763163",
+        "name": "Glebe Land",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4965392,
+          13.182436
+        ]
+      },
+      "id": "node/9668763163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763164",
+        "name": "Cliffs",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4981276,
+          13.1578023
+        ]
+      },
+      "id": "node/9668763164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763165",
+        "name": "Guinea",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4883827,
+          13.1615166
+        ]
+      },
+      "id": "node/9668763165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763166",
+        "name": "Stewart Hill",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4781168,
+          13.1639526
+        ]
+      },
+      "id": "node/9668763166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763167",
+        "name": "Glenburnie",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5070817,
+          13.2040149
+        ]
+      },
+      "id": "node/9668763167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668763169",
+        "name": "Mount Tabor",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5242284,
+          13.1811447
+        ]
+      },
+      "id": "node/9668763169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9668858778",
+        "name": "Quintyne",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4915307,
+          13.1857034
+        ]
+      },
+      "id": "node/9668858778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671127160",
+        "name": "St. Helens",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5656318,
+          13.1525979
+        ]
+      },
+      "id": "node/9671127160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671161673",
+        "name": "Bulkeley",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5493099,
+          13.1225189
+        ]
+      },
+      "id": "node/9671161673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671227102",
+        "name": "Greens",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5281541,
+          13.1481684
+        ]
+      },
+      "id": "node/9671227102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9671748599",
+        "name": "Pleasant Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6133062,
+          13.270493
+        ]
+      },
+      "id": "node/9671748599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9673823053",
+        "name": "Spooners",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5208566,
+          13.1716004
+        ]
+      },
+      "id": "node/9673823053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9675622859",
+        "name": "Morgan Lewis",
+        "place": "hamlet",
+        "postal_code": "BB25001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5746306,
+          13.2687094
+        ]
+      },
+      "id": "node/9675622859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9675622860",
+        "name": "Gregg Farm",
+        "place": "hamlet",
+        "postal_code": "BB25049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5887168,
+          13.2178274
+        ]
+      },
+      "id": "node/9675622860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9681005113",
+        "name": "Appleby",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6371084,
+          13.15466
+        ]
+      },
+      "id": "node/9681005113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9681005115",
+        "name": "Prior Park",
+        "place": "suburb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6194423,
+          13.1569056
+        ]
+      },
+      "id": "node/9681005115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9681214398",
+        "name": "Blowers",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6167726,
+          13.1945361
+        ]
+      },
+      "id": "node/9681214398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9686444514",
+        "name": "Moores Land",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5003338,
+          13.176598
+        ]
+      },
+      "id": "node/9686444514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9723782304",
+        "name": "Portvale",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6132252,
+          13.1913363
+        ]
+      },
+      "id": "node/9723782304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776067485",
+        "name": "Hamden",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4306397,
+          13.1334273
+        ]
+      },
+      "id": "node/9776067485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776067487",
+        "name": "Compton",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4300646,
+          13.1314542
+        ]
+      },
+      "id": "node/9776067487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776184945",
+        "name": "Bottom Bay",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4269296,
+          13.139541
+        ]
+      },
+      "id": "node/9776184945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9776198408",
+        "name": "Content Cot",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4287616,
+          13.1554242
+        ]
+      },
+      "id": "node/9776198408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9777715968",
+        "name": "Sanford",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4566919,
+          13.1380127
+        ]
+      },
+      "id": "node/9777715968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9818263417",
+        "name": "Ragged Point",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4341377,
+          13.1623501
+        ]
+      },
+      "id": "node/9818263417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9830101504",
+        "name": "Rock Hall",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4767212,
+          13.0864208
+        ]
+      },
+      "id": "node/9830101504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9834417238",
+        "name": "Drax Hall",
+        "place": "village",
+        "wikidata": "Q5306072",
+        "wikipedia": "en:Drax Hall Estate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5205724,
+          13.1444147
+        ]
+      },
+      "id": "node/9834417238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875595944",
+        "name": "Yorkshire",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5095517,
+          13.1029918
+        ]
+      },
+      "id": "node/9875595944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9875595946",
+        "name": "Hannays",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5144265,
+          13.107557
+        ]
+      },
+      "id": "node/9875595946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881327818",
+        "name": "Bird's Eye Ridge",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5024867,
+          13.1018433
+        ]
+      },
+      "id": "node/9881327818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881438873",
+        "name": "Fort George Heights",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5729969,
+          13.09688
+        ]
+      },
+      "id": "node/9881438873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9950358927",
+        "name": "Vineyard",
+        "place": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4682895,
+          13.145747
+        ]
+      },
+      "id": "node/9950358927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962863228",
+        "name": "Work Hall",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4477094,
+          13.1246348
+        ]
+      },
+      "id": "node/9962863228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962863231",
+        "name": "Fairfield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.4587474,
+          13.142243
+        ]
+      },
+      "id": "node/9962863231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981118",
+        "alt_name": "Darkhole",
+        "name": "St. Sylvans",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5577679,
+          13.2170955
+        ]
+      },
+      "id": "node/10124981118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981137",
+        "name": "Melvins Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5598609,
+          13.2090882
+        ]
+      },
+      "id": "node/10124981137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981160",
+        "name": "Bissex",
+        "place": "hamlet",
+        "wikidata": "Q25184647",
+        "wikipedia": "en:Bissex"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5508706,
+          13.2189242
+        ]
+      },
+      "id": "node/10124981160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981168",
+        "name": "Spa Hill",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5664759,
+          13.2115809
+        ]
+      },
+      "id": "node/10124981168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981171",
+        "name": "St. Bernards Village",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5584568,
+          13.2026566
+        ]
+      },
+      "id": "node/10124981171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10124981193",
+        "name": "Coconut Grove",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.5486852,
+          13.2154672
+        ]
+      },
+      "id": "node/10124981193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164649821",
+        "name": "Nessfield",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6222316,
+          13.293519
+        ]
+      },
+      "id": "node/10164649821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164714478",
+        "name": "Alleynedale",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.620988,
+          13.2818708
+        ]
+      },
+      "id": "node/10164714478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13421449899",
+        "name": "Maynards Housing Area",
+        "place": "hamlet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.6251686,
+          13.2676463
+        ]
+      },
+      "id": "node/13421449899"
+    }
+  ]
+}
